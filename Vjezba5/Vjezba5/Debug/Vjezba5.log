@@ -1,0 +1,4 @@
+﻿  Vjezba5.c
+C:\Users\Vesna\Documents\Strukture podataka\Vjezba5\Vjezba5\Vjezba5.c(54,29): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Vesna\Documents\Strukture podataka\Vjezba5\Vjezba5\Vjezba5.c(54,29): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Vjezba5.vcxproj -> C:\Users\Vesna\Documents\Strukture podataka\Vjezba5\Debug\Vjezba5.exe
