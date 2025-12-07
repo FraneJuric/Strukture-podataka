@@ -1,0 +1,3 @@
+receipt1.txt
+receipt2.txt
+receipt3.txt

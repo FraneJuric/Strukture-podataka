@@ -19,4 +19,10 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="receipts.txt" />
+    <Text Include="receipt1.txt" />
+    <Text Include="receipt2.txt" />
+    <Text Include="receipt3.txt" />
+  </ItemGroup>
 </Project>

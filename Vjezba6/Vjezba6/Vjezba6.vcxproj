@@ -141,6 +141,12 @@
   <ItemGroup>
     <ClCompile Include="Vjezba6.c" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="receipts.txt" />
+    <Text Include="receipt1.txt" />
+    <Text Include="receipt2.txt" />
+    <Text Include="receipt3.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
