@@ -1,0 +1,5 @@
+Berlin, 3700000
+Hamburg, 1800000
+Munich, 1500000
+Cologne, 1100000
+Frankfurt, 750000

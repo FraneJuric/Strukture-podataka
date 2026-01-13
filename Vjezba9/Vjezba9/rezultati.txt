@@ -1,0 +1,5 @@
+Nakon funkcije insert:
+11 25 33 37 38 50 52 76 77 84 
+
+Nakon funkcije replace:
+0 0 0 0 0 0 0 0 0 0 
