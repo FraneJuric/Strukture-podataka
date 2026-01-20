@@ -1,0 +1,5 @@
+Rim, 2800000
+Milano, 1400000
+Napulj, 960000
+Torino, 870000
+Palermo, 650000
