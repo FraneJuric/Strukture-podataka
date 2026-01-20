@@ -21,7 +21,7 @@ typedef struct CityTree {
     struct CityTree* right;
 } CityTree;
 
-//struktura za drûavu u vezanoj listi
+//struktura za dr≈æavu u vezanoj listi
 typedef struct CountryNode {
     char name[MAX_NAME];
     char filename[MAX_NAME];
@@ -179,7 +179,7 @@ void printCountryList(CountryNode* head) {
 
 //ispis cijele hash tablice
 void printHashTable(HashTable* table) {
-    printf("=== HASH TABLICA DRZAVA ===\n\n");
+    printf("HASH TABLICA DRZAVA\n\n");
     for (int i = 0; i < HASH_TABLE_SIZE; i++) {
         printf("Bucket %d:\n", i);
         if (table->buckets[i] == NULL) {
@@ -207,7 +207,7 @@ void searchCitiesInTree(CityTree* root, int minPopulation) {
     searchCitiesInTree(root->right, minPopulation);
 }
 
-//pronalaûenje drzave u hash tablici
+//pronala≈æenje drzave u hash tablici
 CountryNode* findCountryInHashTable(HashTable* table, const char* name) {
     int index = hashFunction(name);
     CountryNode* current = table->buckets[index];
